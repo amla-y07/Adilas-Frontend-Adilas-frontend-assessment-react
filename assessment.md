@@ -1,22 +1,15 @@
----
-
-### ✅ `assessment.md` (for the actual assignment)
-
-```md
 # ✍️ Frontend Take-Home Assignment
 
 ## 🎯 Objective
 
 Build a basic **Event Management Dashboard** using the provided starter template. You are expected to make engineering decisions and complete missing functionality.
 
----
-
 ## ✅ Requirements
 
 ### 1. Event Dashboard Page
 
 - Display a list of events.
-- Show: Title, Date, Status, and Registration Count.
+- Show: Title, Date, Status, and Registration Count. This dependes the API of your choice
 - Add sorting or filtering by status (e.g., Upcoming, Past) and persist the query on the URL.
 
 ### 2. Event Detail Page
@@ -53,7 +46,7 @@ Build a basic **Event Management Dashboard** using the provided starter template
 
 - You are free to:
   - Add or refactor components
-  - Use any form library or write custom validation
+  - Use any form library/ prefereably react-hook-form or write custom validation
   - Choose how you persist new events (mock or memory)
 
 ---
@@ -62,7 +55,7 @@ Build a basic **Event Management Dashboard** using the provided starter template
 
 - Make assumptions where the spec is vague — explain them if needed.
 - Think like a senior: tradeoffs, maintainability, and developer experience matter.
-- You can use tools like `json-server`, `msw`, `zustand`, etc., if justified.
+- You can use tools like `json-server`, `react-hook-form`, `react-query`, etc., if justified.
 
 ---
 
@@ -79,3 +72,7 @@ This test is designed to take **4–6 hours**. Please don't over-engineer. Just 
   - How to run the app
   - Decisions made
   - Tradeoffs or improvements you'd do with more time
+
+```
+
+```
