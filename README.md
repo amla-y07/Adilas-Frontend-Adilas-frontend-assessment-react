@@ -1,15 +1,15 @@
 # 🧪 Vite React Event Dashboard
 
-This is a starter template for a take-home assignment. It is intentionally incomplete to allow candidates to demonstrate decision-making and problem-solving skills.
+This is a my take-home assignment. It is intentionally didn't complete becuase of time is thanks this kind of skills.
 
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone [repo-url]
-cd vite-react-event-dashboard
+git clone https://github.com/AdilasFrontend/adilas-frontend-assessment-react-ay.git
+cd adilas-frontend-assessment-react-ay
 npm install
-npm run dev        # Start frontend
-npm run serve:api  # If you prefer to use json-server Start mock API (json-server on port 3001)
+npm run dev          # Start the frontend development server
+npm run serve:api    # (Optional) Start mock API server using json-server on port 3001
 
 ```
 
